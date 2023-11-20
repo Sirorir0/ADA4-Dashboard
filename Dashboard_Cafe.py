@@ -7,7 +7,7 @@ import streamlit as st
 
 st.header("Afluencia de clientes cafe internet")
 
-dfCafe = pd.read_excel("C:\\Users\\HP OMEN\\PycharmProjects\\PracticaStreamlit\\Datos\\resultadoLimpieza.xlsx")
+dfCafe = pd.read_excel("C://Users//HP OMEN//PycharmProjects//PracticaStreamlit//Datos//resultadoLimpieza.xlsx")
 
 #sideBar para controles
 #borrar del calendar la primera []
