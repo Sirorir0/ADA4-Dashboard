@@ -1,5 +1,1 @@
-streamlit
-pandas
 plotly==5.17.0
-pip
-calendar
